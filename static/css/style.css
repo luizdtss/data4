@@ -1,0 +1,103 @@
+html,body,div,span,object,iframe,h1,h2,h3,h4,h5,h6,p,blockquote,pre,abbr,address,cite,code,del,dfn,em,img,ins,kbd,q,samp,small,strong,sub,sup,var,b,i,dl,dt,dd,ol,ul,li,fieldset,form,label,legend,table,caption,tbody,tfoot,thead,tr,th,td,article,aside,canvas,details,figcaption,figure,footer,header,hgroup,menu,nav,section,summary,time,mark,audio,video {
+    border:0;
+    font:inherit;
+    font-size:100%;
+    margin:0;
+    padding:0;
+    vertical-align:baseline;
+    }
+
+html, body {background: #eeeeee; font-family: 'Calibri'; font-size: 16px; color: #222;}
+
+.clear {clear: both;}
+
+
+#landing {
+	width: 90%;
+	max-width: 1000px;
+	margin: 30px auto;
+}
+
+#data4logo img {
+	width: 40%;
+	height: 40%;
+    margin-bottom: 2em;
+}
+
+#webtitle {
+    font-size: 2.5em;
+    font-weight: bold;
+    color: #ED7D31;
+    padding-bottom: 20px;
+}
+
+#webtitleTexts {
+    text-align: center;
+}
+
+#name {
+    font-size:2.0em;
+    color: #44546A;
+    font-weight: bold;
+}
+
+#webtitleSubDetail {
+    font-style: italic;
+    color: #44546A;
+}
+
+#flower img {
+	height: 4.8em;
+	width: 4.8em;
+	padding-right: 7px;
+	margin-left: 15px;
+	float: left;
+}
+
+.container{
+    box-shadow: 10px 10px 10px rgba(0, 0, 0, 0.2);
+    justify-content: right;
+    align-items: right;
+    border-radius: 4px;
+
+}
+
+
+h1 {
+	font-size: 1.5em;
+	margin-bottom: 2px;
+    color: #ED7D31;
+}
+
+h2 {
+	font-size: 1.2em;
+	margin-bottom: 5px;
+    color: #44546A;
+}
+
+
+section {
+	border-top: 1px solid #dedede;
+	padding: 20px 0 0;
+}
+
+section:first-child {
+	border-top: 0;
+}
+
+section:last-child {
+	padding: 20px 0 10px;
+}
+
+
+article {
+	margin-bottom: 4.5em;
+}
+
+p {
+	font-size: 1em;
+	line-height: 1.4em;
+	margin-bottom: 20px;
+	color: #777777;
+}
+
